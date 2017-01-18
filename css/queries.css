@@ -1,0 +1,111 @@
+@media screen and (min-width: 768px) {
+	
+}
+
+@media screen and (min-width: 550px) {
+	.wp-caption{
+		padding-bottom:10px;
+		padding-top:30px;
+		position:relative;
+		color:#fff;
+	}
+
+	.wp-caption-text {
+		text-align: left !important;
+		position:absolute;
+		left:3%;
+		right:3%;
+		padding:10px 10px 10px 10px;
+		background:rgba(41, 41, 41, 0.7);
+		color: #fff;
+		font-weight: bold;
+		top:6%;
+	}
+	
+}
+@media screen and (min-width: 992px) {
+	
+}
+
+@media screen and (max-width: 1200px) {
+	
+}
+
+
+@media screen and (max-width: 991px) { 
+	body {
+		padding-left: 0;
+		padding-right: 0;
+	}
+  
+	.call-out p {
+		text-align: center;
+	}
+	
+	.call-out .call-now {
+		text-align: center;
+	}	
+	
+	footer .sitemap{
+		text-align: center;
+	}
+	
+	.footer-address {
+		text-align: center;
+	}
+	
+}
+
+@media screen and (max-width: 1031px){
+	.navbar-brand {
+		width: 270px;
+	}
+	
+	body {
+		padding-top: 38px;
+	}
+	
+}
+
+@media screen and (max-width: 782px){
+	.logged-in .main-navigation{
+		top: 46px;
+	}
+	
+}
+
+
+
+@media screen and (max-width: 767px) {
+	blockquote {
+		font-size: 90%;
+	}
+	
+	.areas p,
+	.home-intro-section p {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
+
+@media screen and (max-width: 520px) {
+
+	.navbar-brand {
+		padding-left: 0px;
+	}
+
+	#wprmenu_bar .bar_logo {
+		height: 55px !important;
+	}
+	
+	body.admin-bar #wprmenu_menu.left, body.admin-bar #wprmenu_menu.right {
+		top: 120px !important; 
+	}
+	body.admin-bar #wprmenu_menu.top {
+		top: 38px !important;
+	}
+
+}
+@media (max-device-width: 480px) and (orientation: landscape) {
+	
+}
