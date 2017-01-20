@@ -356,7 +356,69 @@ a.btn-ghost:hover {
 	border-color: #aaa;
 }
 
+/* ------------------------------ */
+/* Attorneys */
+/* ------------------------------ */
 
+.attorneys {
+	color: #fff;
+	width: 100%;
+	text-align: center;
+}
+
+.attorneys a {
+	color: #FFF !important;
+	text-decoration: underline;
+}
+
+.attorneys p,
+.attorneys li {
+	text-align: left;
+}
+
+.attorney1 {
+	background-color: #3b5f3b;
+	background: linear-gradient(rgba(59, 95, 59, 0.78), rgba(59, 95, 59, 0.78)),
+                rgba(59, 95, 59, 0.78) url('../img/tile-zoomout-crop.jpg') no-repeat center;
+	background-size: cover;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.attorney2 {
+	background-color: #3b5f3b;
+	background-image: url();
+	background-position: center;
+	background-size: cover;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.attorney3 {
+	background-color: #3b5f3b;
+	background: linear-gradient(rgba(59, 95, 59, 0.78), rgba(59, 95, 59, 0.78)),
+                rgba(59, 95, 59, 0.78) url('../img/meeting-room.jpg') no-repeat center;
+	background-size: cover;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.attorney4 {
+	background-color: #669b66;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.attorney5 {
+	background-color: #3b5f3b;
+	background: linear-gradient(rgba(59, 95, 59, 0.78), rgba(59, 95, 59, 0.78)),
+                rgba(59, 95, 59, 0.78) url('../img/buildings.jpg') no-repeat center;
+	background-size: cover;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.attorney6 {
+	background-color: #669b66;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
 
 /* ------------------------------ */
 /* Areas of Specialty */
