@@ -1,3 +1,14 @@
+
+<?php
+/**
+ * The template for displaying archive pages
+ *
+ * @link https://codex.wordpress.org/Template_Hierarchy
+ *
+ * @package HDT_Lawfirm
+ */
+
+get_header(); ?>
 <div class="container pages">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main col-md-8">
